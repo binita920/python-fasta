@@ -1,4 +1,3 @@
-#a new comment
 # This is a comment
 def read_fasta(filename):
     sequence = ''
